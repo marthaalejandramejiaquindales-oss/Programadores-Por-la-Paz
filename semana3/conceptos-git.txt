@@ -1,0 +1,6 @@
+Repositorio: lugar donde se almacenan los archivos de un proyecto y se 
+conservan las modificaciones realizadas a lo largo del tiempo. Commit: 
+acción que guarda un conjunto de cambios en un momento
+ determinado, dejando un registro de las modificaciones efectuadas. Push: 
+proceso mediante el cual los cambios realizados en el equipo o en
+ Codespaces se envían y sincronizan con GitHub.
