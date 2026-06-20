@@ -1,0 +1,10 @@
+Es esencial que un programador sepa cómo utilizar la terminal, ya que le 
+ facilita la navegación, creación, organización y gestión de archivos y 
+ carpetas dentro de un proyecto de forma veloz y eficaz. Asimismo, se 
+ emplean desde la terminal un gran número de herramientas para el 
+ desarrollo, entre las que se encuentran Git, compiladores y 
+ administradores de paquetes. El manejo de estos comandos posibilita 
+ automatizar tareas, aumenta la productividad y hace que el trabajo en el 
+ desarrollo del software sea
+ más organizado y profesional.
+

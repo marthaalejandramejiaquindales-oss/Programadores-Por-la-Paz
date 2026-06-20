@@ -1,0 +1,5 @@
+ls 
+cd Programadores-Por-la-Paz
+mkdir semana2
+nano preguntas-semana2.txt
+
