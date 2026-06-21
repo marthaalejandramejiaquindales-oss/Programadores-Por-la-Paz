@@ -1,0 +1,6 @@
+Las APIs permiten que diferentes aplicaciones y sistemas intercambien
+ información de forma organizada y automática. En una comunidad, podrían utilizarse para compartir
+ reportes, noticias o alertas entre una aplicación móvil, una página web y una base de datos central. Por ejemplo, los
+ ciudadanos podrían enviar reportes sobre daños en las vías o situaciones de emergencia, y las APIs se
+ encargarían de distribuir esa información a las autoridades y a los demás usuarios,
+ facilitando una comunicación rápida, ordenada y eficiente.

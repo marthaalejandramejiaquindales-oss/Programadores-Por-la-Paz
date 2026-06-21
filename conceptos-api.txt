@@ -1,0 +1,5 @@
+Una ruta POST se utiliza para enviar o registrar información en el servidor.
+ Cuando un usuario completa un formulario o crea un nuevo dato, la aplicación envía esa información
+ mediante una solicitud POST para que sea almacenada en una base de datos, en una aplicación comunitaria, una ruta POST podría servir para registrar nuevos usuarios, publicar avisos o
+ eventos, enviar reportes de problemas en la comunidad o guardar comentarios y sugerencias de los vecinos. 
+De esta manera, permite que los usuarios agreguen información y participen activamente en la plataforma.
