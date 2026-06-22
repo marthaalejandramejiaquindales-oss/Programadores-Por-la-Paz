@@ -1,0 +1,6 @@
+Es importante que las plataformas tecnológicas que usan las comunidades
+ funcionen de manera estable y segura en un servidor porque esto garantiza que la
+ información y los servicios estén disponibles de forma continua para los usuarios.
+ Además, una buena administración del servidor protege los datos, reduce fallos
+ y fortalece la confianza de las personas, favoreciendo una participación más segura y
+ eficiente.
