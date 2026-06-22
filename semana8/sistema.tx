@@ -1,0 +1,8 @@
+Los comandos del sistema permiten conocer información
+ como el nombre del sistema operativo, el usuario actual, la
+ memoria disponible, el espacio en disco y los procesos que se
+ están ejecutando. Esta información es útil para
+ administrar un servidor porque
+ ayuda a monitorear el rendimiento, detectar problemas, optimizar recursos
+ y garantizar un funcionamiento seguro y estable de los
+ servicios.

@@ -1,0 +1,5 @@
+1. Contraseñas seguras
+2. Autenticación de usuarios
+3. Protección de datos
+4. Actualizaciones periódicas
+5. Información verificada
